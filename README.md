@@ -21,4 +21,3 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Incredible_nature_of_the_earth_in_terms_of_the_heritage_of_India.jpg" alt="Collection 2">
           </div>
         </div>
-        <p

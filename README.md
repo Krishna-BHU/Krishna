@@ -12,7 +12,6 @@
           <h2>Krishna Yadav</h2>
         </div>
       </nav>
-        <p>Explore our latest collections and discover the perfect products for your style.</p>
         <div class="collections-grid">
           <div class="collection">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Incredible_nature_of_the_earth_from_the_point_of_view_of_India%27s_heritage.jpg" alt="Collection 1">
